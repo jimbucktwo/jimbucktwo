@@ -6,4 +6,4 @@
 <li>I love to discover and try new foods!</li>
 </ul>
 
-<h3><img src="https://media.giphy.com/media/cqtfbphEWzifnUK83c/giphy.gif?cid=ecf05e4742fqiuujefvk28p1uqqt8nc6shahxftrfb14uykz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  width="50px" height="50px">Check out some stuff that I created! </h3>
+<h3><img src="https://media.giphy.com/media/cqtfbphEWzifnUK83c/giphy.gif?cid=ecf05e4742fqiuujefvk28p1uqqt8nc6shahxftrfb14uykz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  width="50px" height="50px"> Check out some stuff that I created! </h3>
