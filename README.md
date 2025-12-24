@@ -2,7 +2,8 @@
 <p>Full Stack Developer</p>
 <h2>About Me!</h2>
 <ul>
-<li><b>Web Developer</b> graduate with a B.S. in Computer Science at CSULB. Currently working at Business Wire as a Full Stack Software Engineer.</li>
+<li><b>Web Developer</b> graduate with a B.S. in Computer Science at CSULB.</li>
+<li>Currently working at Business Wire as a Full Stack Software Engineer.</li>
 <li>I enjoy playing volleyball and piano!</li>
 <li>I love to discover and try new foods!</li>
 </ul>
